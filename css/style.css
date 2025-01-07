@@ -225,7 +225,7 @@ body {
 	left: 0;
 }
 .bg_one {
-	background-image: url(../img/lawyer.jpg.);
+	background-image: url(../img/lawyer.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	z-index: 2;
